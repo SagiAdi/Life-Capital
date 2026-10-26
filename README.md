@@ -20,7 +20,7 @@
 
 ## 🖥️ פלטפורמה
 
-**מחשב**
+**מחשב, פאלפון**
 
 ---
 
@@ -35,4 +35,4 @@
 
 כל הסעיפים שנדרשו בתבנית, כולל תיאור המשחק, השחקנים, היעדים, התהליכים, החוקים, המשאבים, העימותים, הגבולות, התוצאות וסקירת משחקים דומים, נמצאים כאן:
 
-👉 **[homework_financial_conduct_game.md](https://github.com/SagiAdi/The-Next-Interview/blob/main/homework_financial_ conduct_game.md)**
+👉 **[homework_financial_conduct_game.md]([https://github.com/SagiAdi/The-Next-Interview/blob/main/homework_financial_ conduct_game.md](https://github.com/SagiAdi/Life-Capital/blob/main/homework_financial_conduct_game.md))**
